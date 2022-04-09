@@ -8,7 +8,10 @@ import React from 'react';
 import Intro from '../src/pages/Intro'
 import './Intro.css';
 import './about.css';
+import './Portfolio.css';
+import './PortfolioList.css';
 import About from './pages/About';
+import PortfolioList from './pages/PortfolioList';
 
 
 
@@ -31,6 +34,7 @@ function App() {
       </Router> */}
       <Intro />
       <About />
+      <PortfolioList />
      
     </div>
   );
