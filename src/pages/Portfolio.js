@@ -1,3 +1,5 @@
+import { NavItem } from "react-bootstrap";
+
 const Portfolio = ({img, link}) => {
     return (
         <div className="p">
