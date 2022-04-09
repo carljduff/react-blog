@@ -21,7 +21,7 @@ const Intro = () => {
                     This is some text that will later be filled in. This is some text that will later be filled in.
                     This is some text that will later be filled in. This is some text that will later be filled in.
                     This is some text that will later be filled in. This is some text that will later be filled in.
-                    This is some text that will later be filled in. This is some text that will later be filled in.
+                
 
                 </p>
 
