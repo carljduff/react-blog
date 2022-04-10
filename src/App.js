@@ -1,5 +1,6 @@
 // import './App.css';
 import React from 'react';
+import { useState } from 'react';
 // import Home from '../src/pages/Home';
 // import Blog from './pages/Blog';
 // import About from './pages/About';
@@ -10,10 +11,10 @@ import './Intro.css';
 import './about.css';
 import './Portfolio.css';
 import './PortfolioList.css';
-import './Contact.css';
+import './Toggle.css';
 import About from './pages/About';
 import PortfolioList from './pages/PortfolioList';
-import Contact from './pages/Contact';
+import Toggle from './pages/Toggle';
 
 
 
@@ -21,6 +22,7 @@ import Contact from './pages/Contact';
 
 
 function App() {
+const [dark, setDark] = useState(false)
 
   
   return (
@@ -33,10 +35,10 @@ function App() {
       <Route path='/about' element={<About />} />
         </Routes>
       </Router> */}
+      <Toggle />
       <Intro />
       <About />
       <PortfolioList />
-      <Contact />
      
     </div>
   );
