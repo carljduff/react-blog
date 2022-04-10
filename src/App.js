@@ -10,9 +10,10 @@ import './Intro.css';
 import './about.css';
 import './Portfolio.css';
 import './PortfolioList.css';
+import './Contact.css';
 import About from './pages/About';
 import PortfolioList from './pages/PortfolioList';
-
+import Contact from './pages/Contact';
 
 
 
@@ -35,6 +36,7 @@ function App() {
       <Intro />
       <About />
       <PortfolioList />
+      <Contact />
      
     </div>
   );
