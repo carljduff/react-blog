@@ -1,9 +1,8 @@
-import Me from "../components/jordand.png"
 
 
 const Intro = () => {
     return(
-        <div className="i">
+        <div className="i" id={'Home'}>
         <div className="i-left">
             <div className="i-left-wrapper">
                 <h1 className="i-intro">Hi, my name is</h1>
@@ -27,7 +26,7 @@ const Intro = () => {
             </div>
         <div className="i-right">
             <div className="i-bg"></div>
-            <img src={Me} className="i-img" />
+            {/* <img src={Me} className="i-img" /> */}
 
         </div>
         </div>

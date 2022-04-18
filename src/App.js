@@ -1,28 +1,24 @@
 // import './App.css';
 import React from 'react';
-import { useState } from 'react';
+import { useRef } from 'react';
 // import Home from '../src/pages/Home';
 // import Blog from './pages/Blog';
 // import About from './pages/About';
-// import NavLinks from './components/NavLinks';
+import NavLinks from './components/NavLinks';
 // import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Intro from '../src/pages/Intro'
 import './Intro.css';
 import './about.css';
 import './Portfolio.css';
 import './PortfolioList.css';
-import './Toggle.css';
 import About from './pages/About';
 import PortfolioList from './pages/PortfolioList';
-import Toggle from './pages/Toggle';
-
 
 
 
 
 
 function App() {
-const [dark, setDark] = useState(false)
 
   
   return (
@@ -35,7 +31,7 @@ const [dark, setDark] = useState(false)
       <Route path='/about' element={<About />} />
         </Routes>
       </Router> */}
-      <Toggle />
+      <NavLinks/>
       <Intro />
       <About />
       <PortfolioList />

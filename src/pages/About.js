@@ -1,12 +1,15 @@
+import me from "../components/images/jordand.png"
+
 const About = () => {
     return(
-        <div className="about">
+        <div className="about" id={'About'}>
             <div className="about-left"> 
             
-                <div className="about-card bg"></div>
+                {/* <div className="about-card bg"></div> */}
                     
                     <div className="about-card">
-                    <img src='https://images.unsplash.com/photo-1565879629766-30adf38aac56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80' className="about-img"/>
+                    {/* <img src='https://images.unsplash.com/photo-1565879629766-30adf38aac56?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80' className="about-img"/> */}
+                   <img className="me" src={me}/>
                     </div>
             
             </div>

@@ -2,7 +2,7 @@ import { NavItem } from "react-bootstrap";
 
 const Portfolio = ({img, link}) => {
     return (
-        <div className="p">
+        <div className="p" id={'Portfolio'}>
             <div className="p-browser">
 
            <div className="p-circle"></div>
