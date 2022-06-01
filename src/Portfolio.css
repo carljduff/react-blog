@@ -1,4 +1,4 @@
-.p {
+/* .p {
     width: 30%;
     height: 40vh;
     margin: 20px 10px;
@@ -32,4 +32,18 @@
 
 .p:hover .p-img{
     transform: translateY(-100%);
+} */
+
+.port-card {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 400px;
+    height: 300px;
+    overflow: hidden;
+}
+
+.port-img {
+    width: 400px;
+    height: 300px;
+    
 }

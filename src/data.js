@@ -4,34 +4,25 @@ import tic from "../src/components/images/tic.png"
 export const projects = [
 {
     id: 1,
+    title: 'Mind Reader',
     img: mindreader,
     link: "https://carljduff.github.io/mind-reader/",
+    description: "ABNCCCCCCCC"
 },
 {
     id: 2,
+    title: 'Weather App',
     img: weather,
     link: "https://carljduff.github.io/weather-app/",
+    description: ""
 },
 {
     id: 3,
+    title: "Tic-Tac-Toe",
     img: tic,
     link: "https://carljduff.github.io/tic-tac-toe/",
-},
-{
-    id: 4,
-    img: tic,
-    link: "https://github.com/carljduff/react-restaurant",
-},
-{
-    id: 5,
-    img: tic,
-    link: "https://github.com/carljduff/python-evercraft",
-},
-{
-    id: 6,
-    img: tic,
-    link: "https://github.com/carljduff/sql-heroes",
-},
+    description: ""
+}
 ]
 
 export const blogs = [
