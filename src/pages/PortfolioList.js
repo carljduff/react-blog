@@ -4,7 +4,7 @@ import { projects } from "../data";
 const PortfolioList = () => {
     return(
     <div className="p1">
-            <div className="p1-texts">
+            <div className="p1-texts" id={'Portfolio'}>
                 {/* <h1 className="p1-title">Create and Inspire.</h1> */}
                 <p className="p1-desc">Portfolio</p>
             </div>

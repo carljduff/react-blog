@@ -8,7 +8,7 @@
 
 .p1-texts {
     width: 65%;
-    margin-top: 100px;
+    
 }
 
 .p1-title {
@@ -21,6 +21,7 @@
     font-family: 'Charis SIL', serif;
     font-weight: 700 !important;
     font-size: 50px;
+    
 }
 
 .p1-list {
@@ -28,5 +29,5 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 5px;
+    gap: 10px;
 }

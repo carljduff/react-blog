@@ -1,6 +1,9 @@
 import mindreader from "../src/components/images/mindreader.png"
 import weather from "../src/components/images/weather.png"
 import tic from "../src/components/images/tic.png"
+import todo from "../src/components/images/todo.png"
+import opendish from "../src/components/images/opendish.png"
+import menu from "../src/components/images/menu.png"
 export const projects = [
 {
     id: 1,
@@ -21,6 +24,27 @@ export const projects = [
     title: "Tic-Tac-Toe",
     img: tic,
     link: "https://carljduff.github.io/tic-tac-toe/",
+    description: ""
+},
+{
+    id: 4,
+    title: "Todo List",
+    img: todo,
+    link: "https://carljduff.github.io/todo-app/",
+    description: ""
+},
+{
+    id: 5,
+    title: "Restaurant Menu",
+    img: menu,
+    link: "https://carljduff.github.io/react-restaurant/",
+    description: ""
+},
+{
+    id: 6,
+    title: "Open Dish",
+    img: opendish,
+    link: "https://opendish.herokuapp.com/",
     description: ""
 }
 ]
