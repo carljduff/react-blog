@@ -39,13 +39,19 @@
 }
 
 .about-title {
-    font-weight: 400;
+    font-size: 50px;
+    font-weight: 700;
 }
 
 .about-sub {
     margin: 20px 0px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: 500;
 }
 
 .about-desc {
-    font-weight: 300;
+    font-family: 'Charis SIL', serif;
+    margin-right: 20px;
+    font-size: 20px;
 }

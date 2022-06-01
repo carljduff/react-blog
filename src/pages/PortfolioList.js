@@ -6,8 +6,7 @@ const PortfolioList = () => {
     <div className="p1">
             <div className="p1-texts">
                 {/* <h1 className="p1-title">Create and Inspire.</h1> */}
-                <p className="p1-desc">This is a collection of projects done during 
-                the bootcamp.</p>
+                <p className="p1-desc">Portfolio</p>
             </div>
 
             <div className="p1-list">

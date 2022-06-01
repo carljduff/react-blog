@@ -54,10 +54,12 @@ a:link, a:visited {
 .i-intro {
     font-size: 30px;
     font-weight: 300;
+    font-family: 'Charis SIL', serif;
 }
 
 .i-name{
     font-size: 60px;
+    font-family: 'Charis SIL', serif;
 }
 
 .i-title{
@@ -92,6 +94,7 @@ a:link, a:visited {
     color: #2B4050;
     display: flex;
     align-items: center;
+    font-family: 'Charis SIL', serif;
 }
 
 .i-img{
