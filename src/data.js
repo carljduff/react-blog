@@ -10,42 +10,42 @@ export const projects = [
     title: 'Mind Reader',
     img: mindreader,
     link: "https://carljduff.github.io/mind-reader/",
-    description: "ABNCCCCCCCC"
+    description: "A single-page web app that plays a game with the user to read their mind."
 },
 {
     id: 2,
     title: 'Weather App',
     img: weather,
     link: "https://carljduff.github.io/weather-app/",
-    description: ""
+    description: "A Weather app that retrieves Weather data from an external API."
 },
 {
     id: 3,
     title: "Tic-Tac-Toe",
     img: tic,
     link: "https://carljduff.github.io/tic-tac-toe/",
-    description: ""
+    description: "A webpage that recreates the childhood classic game, tic-tac-toe, using JavaScript."
 },
 {
     id: 4,
     title: "Todo List",
     img: todo,
     link: "https://carljduff.github.io/todo-app/",
-    description: ""
+    description: "A Todo List app that uses Local Storage."
 },
 {
     id: 5,
     title: "Restaurant Menu",
     img: menu,
     link: "https://carljduff.github.io/react-restaurant/",
-    description: ""
+    description: "A single-page web app that serves as a restaurant splash page with a menu."
 },
 {
     id: 6,
     title: "Open Dish",
     img: opendish,
     link: "https://opendish.herokuapp.com/",
-    description: ""
+    description: "Final Project: A Potluck webpage that allows users to organize a Potluck."
 }
 ]
 

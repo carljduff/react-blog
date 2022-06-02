@@ -19,7 +19,10 @@ const Portfolio = ({img, link, desc, title}) => {
           
             <img src={img} alt="" className="port-img"/>
         </div>
-            <a href={link}>View</a>
+        <div className="description">
+            {desc}
+        </div>
+           <button className="link"><a href={link}>View</a></button> 
         </div>
     )
 }
