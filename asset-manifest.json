@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-blog/static/css/main.f959d860.css",
+    "main.js": "/react-blog/static/js/main.12d872eb.js",
+    "static/media/jordand.png": "/react-blog/static/media/jordand.a29f547a663dc292b1bd.png",
+    "static/media/weather.png": "/react-blog/static/media/weather.072a7d0824c953c63ba7.png",
+    "static/media/opendish.png": "/react-blog/static/media/opendish.3e2508806c47e0a87347.png",
+    "static/media/menu.png": "/react-blog/static/media/menu.47ce24dfc0728dada882.png",
+    "static/media/todo.png": "/react-blog/static/media/todo.e94a5fdf44c1edf2cc57.png",
+    "static/media/mindreader.png": "/react-blog/static/media/mindreader.e00d21c1f3fbe3e41e90.png",
+    "static/media/tic.png": "/react-blog/static/media/tic.d3ac0496f5fb116da940.png",
+    "index.html": "/react-blog/index.html",
+    "main.f959d860.css.map": "/react-blog/static/css/main.f959d860.css.map",
+    "main.12d872eb.js.map": "/react-blog/static/js/main.12d872eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f959d860.css",
+    "static/js/main.12d872eb.js"
+  ]
+}
