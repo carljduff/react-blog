@@ -1,0 +1,31 @@
+.blog-container {
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+}
+
+.title {
+    margin-top: 20px;
+}
+
+.date {
+    font-style: italic;
+    margin-bottom: 20px;
+}
+
+.intro {
+   width: 900px;
+   margin: auto;
+   margin-bottom: 50px;
+}
+
+.questions {
+    margin: auto;
+    margin-bottom: 5px;
+}
+
+.answers {
+    width: 1000px;
+    margin: auto;
+    margin-bottom: 20px;
+}

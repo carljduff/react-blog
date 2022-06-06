@@ -16,7 +16,7 @@ const NavItem = () => {
     <Nav>
         
       <Nav.Link className='nav-text' href="#Home">HOME</Nav.Link>
-      <Nav.Link className='nav-text' href="#Blog">BLOG</Nav.Link>
+      <Nav.Link className='nav-text' href="https://carljduff.github.io/">BLOG</Nav.Link>
       <Nav.Link className='nav-text' href="#About">ABOUT</Nav.Link>
       <Nav.Link className='nav-text' href="#Portfolio">PORTFOLIO</Nav.Link>
 

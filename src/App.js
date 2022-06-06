@@ -19,7 +19,8 @@ function App() {
       <Intro />
       <About />
       <PortfolioList />
-     
+  
+    
     </div>
   );
 }

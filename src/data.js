@@ -50,6 +50,39 @@ export const projects = [
 }
 ]
 
+export const teaser = [
+    {
+      id: 1,
+      title: "Git & Github",
+      date: 'February 28, 2022',
+      description: "I am so excited to finally get started. Before we started the bootcamp...",
+    },
+    {
+        id: 2,
+        title: "Two",
+        date: 'Today',
+        description: 'Desc'
+    },
+    {
+        id: 3,
+        title: "Two",
+        date: 'Today',
+        description: 'Desc'
+    },
+    {
+        id: 4,
+        title: "Two",
+        date: 'Today',
+        description: 'Desc'
+    },
+    {
+        id: 5,
+        title: "Two",
+        date: 'Today',
+        description: 'Desc'
+    },
+  ]
+
 export const blogs = [
     {
         id: 1,
@@ -69,7 +102,7 @@ export const blogs = [
             {
                 q3: "What is something about you that can only be learned by reading this blog?",
                 a3: "I have never written a blog before, nor have I realized that I would enjoy it as much before starting this one. I look forward to updating it weekly so you can follow along with my journey. I've had four jobs since I started working at 16. I was at my first job for two years, the second a year, the third eight years and my most recent job going on four years. During this bootcamp will be the first time I've not worked since I've been 16."
-            }
+            },
         ]
     },
 
