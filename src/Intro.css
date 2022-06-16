@@ -113,3 +113,40 @@ a:link, a:visited {
     top: 0;
     right: 0;
 }
+
+
+@media only screen and (max-width: 375px) { 
+    .i {
+        display: flex;
+        flex-flow: column wrap;
+    }
+
+    .i-left-wrapper {
+        display: flex;
+        flex-flow: row wrap;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .i-img {
+        top: 0;
+    }
+
+    .i-intro {
+        font-size: 20px;
+    }
+
+    .i-name {
+        font-size: 30px;
+    }
+
+    .i-title-item {
+        height: 75px;
+        font-size: 20px;
+    }
+
+    .i-title {
+        margin-top: 10px;
+    }
+    
+}
